@@ -1,0 +1,42 @@
+# 模型文件夹 - 不上传
+models/
+
+# Python环境 - 不上传
+python313/
+
+# 自定义节点 - 不上传（包含嵌套Git仓库）
+custom_nodes/
+
+# 输出文件
+output/
+
+# 临时文件
+temp/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 缓存
+.cache/
+*.log
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 分发/打包
+dist/
+build/
+*.egg-info/

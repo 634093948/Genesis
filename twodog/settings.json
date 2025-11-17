@@ -1,0 +1,15 @@
+{
+    "comfyui_path": "E:/liliyuanshangmie/Genesis-webui-modular-integration",
+    "python_path": "E:/liliyuanshangmie/Genesis-webui-modular-integration/python313/python.exe",
+    "launch_command": "--auto-launch",
+    "launch_script": "main.py",
+    "mirror_source": "1",
+    "scale_factor": 1,
+    "proxy_enabled": false,
+    "proxy_host": "",
+    "proxy_port": "",
+    "apply_git": false,
+    "apply_pip": false,
+    "apply_env": false,
+    "apply_model": false
+}

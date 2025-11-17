@@ -1,0 +1,16 @@
+{
+    "请输入ComfyUI路径，支持相对路径如例：././ComfyUI 完整路径I:/ComfyUI": [
+        "E:/liliyuanshangmie/Genesis-webui-modular-integration",
+        "E:/liliyuanshangmie/Fuxkcomfy_lris_sage3_50.rar/FuxkComfy",
+        "E:/liliyuanshangmie/Fuxkcomfy_lris_kernel_gen2-4_speed_safe/FuxkComfy",
+        "D:/liliyuanshangmie/Fuxkcomfy_lris_kernel_gen2-4_speed_safe/FuxkComfy",
+        "D:/liliyuanshangmie/fuxkcomfy_windows_portable/FuxkComfy"
+    ],
+    "请选择python.exe文件支持相对路径如例:././ComfyUI/python310/python.exe 完整路径I:/ComfyUI/python310/python.exe": [
+        "E:/liliyuanshangmie/Genesis-webui-modular-integration/python313/python.exe",
+        "E:/liliyuanshangmie/Fuxkcomfy_lris_sage3_50.rar/python_embeded/python.exe",
+        "E:/liliyuanshangmie/Fuxkcomfy_lris_kernel_gen2-4_speed_safe/python_embeded/python.exe",
+        "D:/liliyuanshangmie/Fuxkcomfy_lris_kernel_gen2-4_speed_safe/python_embeded/python.exe",
+        "D:/liliyuanshangmie/fuxkcomfy_windows_portable/python_embeded/python.exe"
+    ]
+}
